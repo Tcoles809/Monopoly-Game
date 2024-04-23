@@ -1,0 +1,68 @@
+Themename:
+Google
+
+Token:
+Google T-rex
+android bot
+magic cat
+great ghost
+
+Property:
+google docs
+google sheets
+google slides
+google drive
+google maps
+google photos
+google mail
+google play
+google chrome
+google calendar
+google sites
+google groups
+google plus
+google chat
+google cloud search
+google meet
+google contact
+google earth
+google hangout
+google classroom
+google cloud print
+google hardware
+stadia(station)
+ads(station)
+android(station)
+youtube(station)
+magic cat academy(utility)
+dinosaur run(utility)
+
+Price:
+60
+60
+100
+100
+120
+140
+140
+160
+180
+180
+200
+220
+220
+240
+260
+260
+280
+300
+300
+320
+350
+400
+200
+200
+200
+200
+150
+150

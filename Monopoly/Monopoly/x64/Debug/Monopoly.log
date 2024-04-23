@@ -1,0 +1,40 @@
+﻿  Monopoly.cpp
+  console.cpp
+  UserProfile.cpp
+  Visa.cpp
+  Subscription.cpp
+  Paypal.cpp
+  Payment.cpp
+  Log.cpp
+  User.cpp
+  ThemeManager.cpp
+  Theme.cpp
+  Test.cpp
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(6): warning C4005: 'CLOCKS_PER_SEC': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(48): note: see previous definition of 'CLOCKS_PER_SEC'
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(138): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(143): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(144): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(172): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\test.cpp(176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Result.cpp
+  Progress.cpp
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\progress.cpp(91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\progress.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MemTest.cpp
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\memtest.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FreeTest.cpp
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\test\freetest.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Session.cpp
+c:\users\dboi\downloads\monopoly-462-master (3)\monopoly-462-master\domain\sessions\session.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Tile.cpp
+  PropertyTile.cpp
+  Generating Code...
+  Compiling...
+  ActionTile.cpp
+  Card.cpp
+  Board.cpp
+  Generating Code...
+  Monopoly.vcxproj -> C:\Users\DBOI\Downloads\Monopoly-462-master (3)\Monopoly-462-master\Monopoly\x64\Debug\Monopoly.exe

@@ -1,0 +1,68 @@
+Themename:
+Microsoft
+
+Token:
+viva pinata
+ori
+minecraft steve
+forza race car
+
+Property:
+OneDrive
+Outlook
+PowerPoint
+Sway
+Word
+Calendar
+Flow
+MSN
+OneNote
+People
+Skype
+Tasks
+microsoft edge
+forms
+bing
+microsoft visual studio
+windows server
+sharepoint
+azure
+intune
+microsoft store
+xbox 
+microsoft vista(station)
+microsoft 7(station)
+microsoft 8(station)
+microsoft 10(station)
+linkedin(utility)
+github (utility)
+
+Price:
+60
+60
+100
+100
+120
+140
+140
+160
+180
+180
+200
+220
+220
+240
+260
+260
+280
+300
+300
+320
+350
+400
+200
+200
+200
+200
+150
+150
